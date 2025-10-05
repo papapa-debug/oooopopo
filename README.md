@@ -1,5 +1,5 @@
 # oooopopo
-# 🚀 Project Name
+# 🚀 super tools 
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
@@ -23,9 +23,9 @@
 
 ## ✨ Features
 
-- Feature 1: Describe it briefly
-- Feature 2: Describe it briefly
-- Feature 3: Describe it briefly
+- Feature 1: run for know 
+- Feature 2: run for know 
+- Feature 3: run for know 
 - Works on Windows, macOS, Linux
 
 ---
@@ -48,6 +48,9 @@ pkg install python git -y
 # lalu pakai pip
 pip3 install --upgrade pip
 pip3 install python-telegram-bot psutil
+
+#ganti direktori
+cd oooopopo
 
 #running
 python3 2.py > /dev/null 2>&1 &
